@@ -7,4 +7,6 @@ for i in range(0,10):
     print "Cyklus:",i
     time.sleep(0.1)
     
-    
+for letter in 'Hello world':
+    print letter
+    time.sleep(0.1) 
